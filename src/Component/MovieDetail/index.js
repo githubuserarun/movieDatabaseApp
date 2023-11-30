@@ -1,7 +1,7 @@
 import {Component} from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css'
 import Navbar from '../NavBar'
 import './index.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 class MovieDetails extends Component {
   state = {movieDetails: [], castDetails: []}

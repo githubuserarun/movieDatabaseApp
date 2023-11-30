@@ -1,6 +1,6 @@
 import {Link} from 'react-router-dom'
-import 'bootstrap/dist/css/bootstrap.min.css'
 import './index.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 const MovieCard = props => {
   const {movieDetails} = props
